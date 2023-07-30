@@ -1,2 +1,1 @@
-# Skin-Lesion-Classification-with-CNN
-Classifying skin lesion with CNN architecture (EfficientNet-B3, VGG16, DenseNet, Inception V3)
+This repository focuses on the application of Convolutional Neural Network (CNN) architectures for the classification of skin lesions. Four popular CNN models, namely EfficientNet-B3, VGG16, DenseNet, and Inception V3, have been implemented and evaluated on a dataset of skin lesion images.
