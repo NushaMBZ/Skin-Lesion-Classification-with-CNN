@@ -5,9 +5,6 @@ This repository focuses on the application of Convolutional Neural Network (CNN)
 |Models| Base Model |EfficientNet-B3 | VGG16 | DenseNet | Inception V3 |
 |-|-|-|-|-|-|
 |Data Augmentation|False|False|False|False|False|
-|Optimizer|Adam|Adam|Adam|Adam|Adam|
-|LR| 0.001| 0.001| 0.001| 0.001| 0.001| 0.001|
-|LF|SparseCategoricalCrossentropy|CategoricalCrossentropy|CategoricalCrossentropy|CategoricalCrossentropy|CategoricalCrossentropy|
 |Parameters|85,867|10,783,535|14,716,227|12,647,875|21,808,931|
 |Depth|10|5|7|8|7|
 |Validation|68%|72%|68%|73%|71%|
